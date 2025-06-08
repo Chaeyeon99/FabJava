@@ -8,3 +8,5 @@ public class Main {
         CliRunner.run();
     }
 }
+
+// 패브릭스 연동 테스트
